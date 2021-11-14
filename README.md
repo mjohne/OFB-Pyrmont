@@ -1,2 +1,2 @@
 # OFB-Bad-Pyrmont
-Rebuild des Online-OFB "Bad Pyrmont" des verstorbenen Bearbeiter Uwe Kampfer
+Weiterentwicklung des Online-OFB "Bad Pyrmont" des verstorbenen Bearbeiters Uwe Kampfer
